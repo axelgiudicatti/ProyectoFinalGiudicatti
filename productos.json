@@ -1,0 +1,6 @@
+[
+  { "estilo": "IPA", "precio": 450, "cantidad": 0, "stock": 350 },
+  { "estilo": "IRISH", "precio": 400, "cantidad": 0, "stock": 350 },
+  { "estilo": "STOUT", "precio": 400, "cantidad": 0, "stock": 250 },
+  { "estilo": "GOLDEN", "precio": 380, "cantidad": 0, "stock": 500 }
+]
